@@ -22,7 +22,7 @@ The objective of this project is to develop a Python application that uses genet
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/AMINAKIM/School-Bus-Routing-Problem-Solver.git
+    git clone https://github.com/AMINAKIM/School-Bus-Routing-Problem.git
     ```
 
 ## Contributing
